@@ -1,4 +1,4 @@
-# Learning Management System
+# PyTutor
 
 This project is made using :
 - Django 3.2.5
